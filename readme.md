@@ -8,4 +8,6 @@ http://flask-sqlalchemy.pocoo.org/2.3/
 http://flask-marshmallow.readthedocs.io/en/latest/
 https://marshmallow-sqlalchemy.readthedocs.io/en/latest/
 
+Added the SQLlight and created the database. The database has 1 table with the first column being the primary key, the second column being 'title' and the third column being called 'content'.
+
 
